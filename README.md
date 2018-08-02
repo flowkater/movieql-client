@@ -83,3 +83,5 @@ const Home = () => (
 
 export default Home;
 ```
+
+> redux 로 관리할 필요없이 캐시 처리를 해준다. fetch, waiting 등 부가적인 코드가 필요없이 Query 라는 태그안에서 모두 처리해줌. 개편리!
